@@ -1,7 +1,8 @@
 # 22-1a-cdados-projeto1
 
-Template para o projeto 1 de CDados
+Projeto 1 de Ciência dos Dados
 
-Edite este arquivo com informações úteis do projeto:
-- Adicione o nome dos membros do grupo
-- Link para arquivos úteis (notebooks, dados)
+Participantes:
+- Julia Diniz do Nascimento
+- Luca Mizrahi
+
